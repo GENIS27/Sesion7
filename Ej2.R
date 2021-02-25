@@ -17,7 +17,7 @@ abline(lsfit(RunSize, RunTime)) #Trazar la recta
 
 cor(RunTime ~ RunSize)
 
-#Y = b + mx
+#Y = b + mx esta es formula 
 149.74770 + .25924 * 250
 points(250, 214.5577, pch=16, col= "blue" )
 
